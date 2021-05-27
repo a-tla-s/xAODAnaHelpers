@@ -1,0 +1,70 @@
+
+.. _file_xAODAnaHelpers_MuonEfficiencyCorrector_AnaToolHandle.txt:
+
+File MuonEfficiencyCorrector_AnaToolHandle.txt
+==============================================
+
+|exhale_lsh| :ref:`Parent directory <dir_xAODAnaHelpers>` (``xAODAnaHelpers``)
+
+.. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+Definition (``xAODAnaHelpers/MuonEfficiencyCorrector_AnaToolHandle.txt``)
+-------------------------------------------------------------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   program_listing_file_xAODAnaHelpers_MuonEfficiencyCorrector_AnaToolHandle.txt.rst
+
+
+
+
+
+Includes
+--------
+
+
+- ``AsgTools/AnaToolHandle.h``
+
+- ``PATInterfaces/ISystematicsTool.h``
+
+- ``PATInterfaces/SystematicRegistry.h``
+
+- ``PATInterfaces/SystematicSet.h``
+
+- ``PATInterfaces/SystematicVariation.h``
+
+- ``PATInterfaces/SystematicsUtil.h``
+
+- ``xAODAnaHelpers/Algorithm.h`` (:ref:`file_xAODAnaHelpers_Algorithm.h`)
+
+
+
+
+
+
+Namespaces
+----------
+
+
+- :ref:`namespace_CP`
+
+
+Classes
+-------
+
+
+- :ref:`exhale_class_classMuonEfficiencyCorrector`
+
+
+Defines
+-------
+
+
+- :ref:`exhale_define_MuonEfficiencyCorrector__AnaToolHandle_8txt_1ac138ceb74b06d75c0db04f1467141b05`
+

@@ -1,0 +1,13 @@
+.. _exhale_define_MuonEfficiencyCorrector__AnaToolHandle_8txt_1ac138ceb74b06d75c0db04f1467141b05:
+
+Define xAODAnaHelpers_MuonEfficiencyCorrector_H
+===============================================
+
+- Defined in :ref:`file_xAODAnaHelpers_MuonEfficiencyCorrector_AnaToolHandle.txt`
+
+
+Define Documentation
+--------------------
+
+
+.. doxygendefine:: xAODAnaHelpers_MuonEfficiencyCorrector_H
